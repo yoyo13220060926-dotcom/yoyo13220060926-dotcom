@@ -1,6 +1,6 @@
 # Hi, I'm Yo 👋
 
-Data Science Student at Soochow University (東吳大學資料科學系)
+Data Science Student at Soochow University 
 
 I am interested in Artificial Intelligence, Data Analytics, Marketing Technology, and Software Development. I enjoy building practical projects that combine data, automation, and AI applications to solve real-world problems.
 
