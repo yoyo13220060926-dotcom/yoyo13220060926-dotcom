@@ -1,44 +1,97 @@
 # Hi, I'm Yo 👋
 
-Business & Data Science Student from Taiwan
+Data Science Student at Soochow University (東吳大學資料科學系)
 
-## About Me
+I am interested in Artificial Intelligence, Data Analytics, Marketing Technology, and Software Development. I enjoy building practical projects that combine data, automation, and AI applications to solve real-world problems.
 
-I'm passionate about building practical AI applications and exploring how data can solve real-world problems.
-
-Currently focusing on:
-
-- AI Applications
-- LLM Development
-- Data Analytics
-- AI Agents
-- Embedded AI
-
-## Featured Projects
-
-### Patent Scout AI
-AI-powered patent search and analysis platform.
-
-### CS300 Embedded AI Demo
-YOLOv8 deployment on ARM Cortex-M55 and Ethos-U55.
-
-### Product Repair Tracking System
-Database-driven repair management system.
-
-### YouBike Data Analysis
-Exploratory data analysis and visualization project.
+---
 
 ## Technical Skills
 
+### Programming
 - Python
+- JavaScript
 - SQL
-- Docker
-- Git
-- Linux
+- HTML / CSS
+
+### Frameworks & Tools
 - Flask
-- Next.js
-- OpenAI API
+- Git & GitHub
+- SQLite
+- Chrome Extension API
 
-## Current Goal
+### Areas of Interest
+- Artificial Intelligence
+- AI Agents
+- Data Analytics
+- Marketing Technology
+- Business Intelligence
+- Automation Systems
 
-Seeking opportunities to gain experience in AI application development, data analytics, and software engineering.
+---
+
+## Featured Projects
+
+### Product Repair Tracking System
+A Flask-based repair management platform for tracking repair orders, customer information, and maintenance records.
+
+**Tech Stack:** Python, Flask, SQLite, HTML, CSS
+
+### TronClass Attendance Extension
+A Chrome Extension developed to explore browser automation and extension architecture.
+
+**Tech Stack:** JavaScript, Chrome Extension API
+
+### Patent Scout AI
+An AI-assisted patent search and information retrieval project designed to improve research efficiency.
+
+**Tech Stack:** AI, LLM Applications, Python
+
+### YouBike Data Analysis
+A data analysis project utilizing public transportation datasets to identify usage patterns and visualize mobility trends.
+
+**Tech Stack:** Python, SQL, Data Visualization
+
+---
+
+## Academic Projects
+
+### AI Agent Development
+Exploration of LLM-powered autonomous agents and workflow automation.
+
+### CS1000 FVP
+Embedded systems and software development exercises.
+
+### CS300 FVP
+Advanced system-level programming and development practices.
+
+### OpenBMC ARM FVP
+Hands-on experience with ARM Fixed Virtual Platforms and embedded software environments.
+
+---
+
+## Currently Learning
+
+- AI Agent Systems
+- Large Language Model Applications
+- Data Science
+- Full-Stack Development
+- Cloud Technologies
+
+---
+
+## Career Interests
+
+I am currently seeking opportunities to gain practical experience in:
+
+- AI Application Development
+- Data Analysis
+- Data Science
+- Software Engineering
+- Marketing Technology
+
+---
+
+## GitHub Statistics
+
+Building projects, learning continuously, and sharing my development journey.
